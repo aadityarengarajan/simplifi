@@ -1,0 +1,9 @@
+{
+	"name" : "Simplifi Versions",
+	"description" : "v1, v2, v3 of Simplifi, To-Do List/Digital Assistant/Task Manager based on XLSX files.",
+	"created" : "22/12/2020",
+	"completed" : "true",
+	"modules" : ["pandas","datetime","webbrowser","random","GoogleNews","jinja2"],
+	"hosting" : {"hosted" : "false"},
+	"code" : "SI-01082020-175533"
+}
